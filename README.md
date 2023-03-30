@@ -2,10 +2,8 @@
 
 <h2>Kullanılan Teknolojiler</h2>
 
-HTML5 ve scss
+HTML5 + SCSS + SASS
 
 <h2>Ekran Gifi</h2>
 
 ![](ekran.gif)
-# NISSAN
-# NISSAN
